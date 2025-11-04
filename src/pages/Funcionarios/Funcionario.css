@@ -1,0 +1,32 @@
+.funcionario-titulo {
+    font-family: 'Inter';
+    font-size: 45px;
+}
+
+.crud-funcionarios {
+    background-color: #F1F2F7;
+}
+
+table th {
+    font-family: 'Inter';
+    font-size: 22px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    text-align: left;
+    background-color: #0871B4;
+    color: #fff;
+}
+
+table td {
+    font-family: 'Inter';
+    font-size: 18px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    text-align: left;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 30px;
+}

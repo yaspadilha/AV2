@@ -1,0 +1,16 @@
+.testes-titulo {
+    font-family: 'Inter';
+    font-size: 45px;
+}
+
+.testes-subtitulo {
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.container-testes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
