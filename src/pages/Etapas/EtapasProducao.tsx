@@ -46,8 +46,8 @@ function EtapasProducao() {
             </Modal>
             <div className='aeronaves'>
                 <div className='etapas-aeronave'>
-                    <h1 className='etapas-titulo'>A300</h1>
-                    <h2 className='etapas-subtitulo'>Etapas de produção da <br /> aeronave A300 código 200</h2>
+                    <h1 className='etapas-titulo'>Boieng 737</h1>
+                    <h2 className='etapas-subtitulo'>Etapas de produção da <br /> aeronave Boieng 737 código 12</h2>
                     <CardEtapa nomeEtapa='Montagem das asas' prazo='23/11/2025' status='Concluída' />
                     <CardEtapa nomeEtapa='Conserto das rodas' prazo='27/11/2025' status='Concluída' />
                     <CardEtapa nomeEtapa='Instalação dos sistemas elétricos' prazo='03/12/2025' status='Concluída' />
@@ -55,21 +55,21 @@ function EtapasProducao() {
                 </div>
 
                 <div className='etapas-aeronave'>
-                    <h1 className='etapas-titulo'>A300</h1>
-                    <h2 className='etapas-subtitulo'>Etapas de produção da <br /> aeronave A300 código 200</h2>
-                    <CardEtapa nomeEtapa='Montagem das asas' prazo='23/11/2025' status='Concluída' />
-                    <CardEtapa nomeEtapa='Conserto das rodas' prazo='27/11/2025' status='Concluída' />
+                    <h1 className='etapas-titulo'>F-15</h1>
+                    <h2 className='etapas-subtitulo'>Etapas de produção da <br /> aeronave F-15 código 14</h2>
+                    <CardEtapa nomeEtapa='Montagem das asas' prazo='26/11/2025' status='Concluída' />
+                    <CardEtapa nomeEtapa='Conserto das rodas' prazo='29/11/2025' status='Concluída' />
                     <CardEtapa nomeEtapa='Instalação dos sistemas elétricos' prazo='03/12/2025' status='Concluída' />
-                    <CardEtapa nomeEtapa='Montagem da turbina' prazo='14/12/2025' status='Concluída' />
+                    <CardEtapa nomeEtapa='Montagem da turbina' prazo='30/12/2025' status='Concluída' />
                 </div>
 
                 <div className='etapas-aeronave'>
-                    <h1 className='etapas-titulo'>A300</h1>
-                    <h2 className='etapas-subtitulo'>Etapas de produção da <br /> aeronave A300 código 200</h2>
-                    <CardEtapa nomeEtapa='Montagem das asas' prazo='23/11/2025' status='Concluída' />
-                    <CardEtapa nomeEtapa='Conserto das rodas' prazo='27/11/2025' status='Concluída' />
+                    <h1 className='etapas-titulo'>Airbus A320</h1>
+                    <h2 className='etapas-subtitulo'>Etapas de produção da <br /> aeronave Airbus A320 código 13</h2>
+                    <CardEtapa nomeEtapa='Montagem das asas' prazo='30/11/2025' status='Concluída' />
+                    <CardEtapa nomeEtapa='Conserto das rodas' prazo='11/11/2025' status='Concluída' />
                     <CardEtapa nomeEtapa='Instalação dos sistemas elétricos' prazo='03/12/2025' status='Concluída' />
-                    <CardEtapa nomeEtapa='Montagem da turbina' prazo='14/12/2025' status='Concluída' />
+                    <CardEtapa nomeEtapa='Montagem da turbina' prazo='12/12/2025' status='Concluída' />
                 </div>
             </div>
         </>

@@ -7,8 +7,8 @@ import { useState } from "react";
 function Aeronave() {
 
     const dados1 = { modelo: "Boieng 737", codigo: "12", status: "Finalizada", tipo: "Comercial", capacidade: "20 passageiros", alcance: "2300 km" };
-    const dados2 = { modelo: "Airbus A320", codigo: "12", status: "Em produção", tipo: "Comercial", capacidade: "13 passageiros", alcance: "5600 km" };
-    const dados3 = { modelo: "F-15", codigo: "12", status: "Finalizada", tipo: "Militar", capacidade: "11 passageiros", alcance: "7200 km" };
+    const dados2 = { modelo: "Airbus A320", codigo: "13", status: "Em produção", tipo: "Comercial", capacidade: "13 passageiros", alcance: "5600 km" };
+    const dados3 = { modelo: "F-15", codigo: "14", status: "Finalizada", tipo: "Militar", capacidade: "11 passageiros", alcance: "7200 km" };
 
     const [open, setOpen] = useState<boolean>(false);
 

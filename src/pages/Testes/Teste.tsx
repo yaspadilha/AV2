@@ -57,9 +57,9 @@ function Teste() {
             </Modal>
 
             <div className='container-testes'>
-                <CardTestes aeronave="A300" tipo="Hidráulico" data="20/10/2025" responsavel='Maria Lúcia' status='Aprovado' />
-                <CardTestes aeronave="A300" tipo="Hidráulico" data="20/10/2025" responsavel='Maria Lúcia' status='Aprovado' />
-                <CardTestes aeronave="A300" tipo="Hidráulico" data="20/10/2025" responsavel='Maria Lúcia' status='Reprovado' />
+                <CardTestes aeronave="Boieng 737" tipo="Hidráulico" data="20/10/2025" responsavel='Maria' status='Aprovado' />
+                <CardTestes aeronave="Airbus A320" tipo="Elétrico" data="21/10/2025" responsavel='João' status='Aprovado' />
+                <CardTestes aeronave="F-15" tipo="Hidráulico" data="28/10/2025" responsavel='André' status='Reprovado' />
             </div>
         </>
     );

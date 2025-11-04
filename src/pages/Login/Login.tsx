@@ -1,4 +1,5 @@
 import { GiPadlock } from "react-icons/gi";
+import { Link } from "react-router-dom";
 import './Login.css';
 
 function Login() {
@@ -12,7 +13,7 @@ function Login() {
                     <input className="form-input" type="password" placeholder="Senha" />
                 </label>
             </form>
-            <button className="login-button">Entrar</button>
+            <button className="login-button"><Link to="/aeronaves" className="login-button-legenda">Entrar</Link></button>
         </div>
     )
 }
